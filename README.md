@@ -76,15 +76,8 @@ o time (para pausas e efeitos de tempo)
 o os (para limpar a tela e melhorar a imersão) 
 <br>
 o random (para eventos aleatórios) 
-
-
-
-
-
-
 <br>
-<br>
-<img src="https://github.com/Hudson-Nasciment0/Easy-Shopping-Via-Mobile/blob/main/assets/Macbook.png?raw=true">
-<br>
-<br>
-<img src="https://github.com/Hudson-Nasciment0/Easy-Shopping-Via-Mobile/blob/main/assets/Desktop.png?raw=true">
+<div align="center">
+<img src="https://github.com/Hudson-Nasciment0/Nostradamus/blob/main/img/img-corte.png?raw=true">
+</div>
+
