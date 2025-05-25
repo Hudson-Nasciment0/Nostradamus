@@ -77,24 +77,27 @@ o os (para limpar a tela e melhorar a imersão)
 o random (para eventos aleatórios) 
 <br>
 <br>
-<h1>Equipe formada por:</h1/>
+<h1>Equipe e Divisão de Tarefas:</h1/>
 <br>
 <div>
-  Ana Beatriz Abrantes da Silva;
+  Ana Beatriz Abrantes da Silva - 🔢Programação e Estrutura de Código/🎭Design Narrativo e Roteiro/🧠 Testes e Feedback de Jogabilidade;
   <br>
-  Beatriz Barboza Marques Lima da Silva;
   <br>
-  Carolina Diniz Araújo;
+  Beatriz Barboza Marques Lima da Silva - 🔢Programação e Estrutura de Código/🎭Design Narrativo e Roteiro/🧠 Testes e Feedback de Jogabilidade;
   <br>
-  Davy Queiroz da Silva;
   <br>
-  Hudson Nascimento Pereira vieira;
+  Davy Queiroz da Silva - 🎨 Design Visual (ASCII e Layout)/🧠 Testes e Feedback de Jogabilidade
   <br>
-  Matheus Lima Rocha;
   <br>
-  Rafael dos Santos Paulo;
+  Hudson Nascimento Pereira vieira - 📜 Documentação (README)/🧪 Testes e Qualidade (QA)/🔗 Controle de Versões (Git)/🧠 Testes e Feedback de Jogabilidade
   <br>
-  Rodrigo Gomes da Conceição.
+  Matheus Lima Rocha - 🎨 Design Visual (ASCII e Layout)/🧠 Testes e Feedback de Jogabilidade
+  <br>
+  <br>
+  Rafael dos Santos Paulo -  🚀Aprimoramento de Funcionalidades e Otimização/🧠 Testes e Feedback de Jogabilidade
+  <br>
+  <br>
+  Rodrigo Gomes da Conceição - 🔧 Desenvolvimento de Sistema (Inventário e Fluxo)/🧠 Testes e Feedback de Jogabilidade/
 </div>
 <br>
 <h2>Professor Orientador:</h2>
