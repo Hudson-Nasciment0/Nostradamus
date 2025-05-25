@@ -6,7 +6,6 @@ médio que, junto de seus amigos, embarca numa aventura cheia de mistérios, dec
 consequências. Suas escolhas moldam o futuro, então pense bem. 
 <br>
 <h1>Instalação</h1>
-<br>
 <h2>Requisitos:</h2>
 <br>
 • Python 3.10 ou superior instalado na sua máquina.
@@ -16,15 +15,15 @@ consequências. Suas escolhas moldam o futuro, então pense bem.
 • Nenhuma biblioteca externa. Só precisa do Python instalado.
 <br>
 <h4>Como rodar:</h4>
-1. Baixe o arquivo Nostradamus.py. 
+1. Baixe o arquivo Nostradamus.py;
 <br>
-2. Abra o terminal (ou prompt de comando). 
+2. Abra o terminal (ou prompt de comando); 
 <br>
-3. Navegue até a pasta onde o arquivo está salvo. 
+3. Navegue até a pasta onde o arquivo está salvo;
 <br>
-4. Digite: python Nostradamus.py 
+4. Digite: python Nostradamus.py;
 <br>
-5. Aperte Enter e o jogo vai começar. 
+5. Aperte Enter e o jogo vai começar.
 
 <h1>Como jogar</h1>
 <br>
@@ -78,33 +77,36 @@ o os (para limpar a tela e melhorar a imersão)
 o random (para eventos aleatórios) 
 <br>
 <br>
-<h1>Equipe formada por:</h1/>
+<h1>Equipe e Divisão de Tarefas:</h1/>
 <br>
 <div>
-  Ana Beatriz Abrantes da Silva;
+  Ana Beatriz Abrantes da Silva - 🔢Programação e Estrutura de Código/🎭Design Narrativo e Roteiro/🧠 Testes e Feedback de Jogabilidade;
   <br>
-  Beatriz Barboza Marques Lima da Silva;
   <br>
-  Carolina Diniz Araújo;
+  Beatriz Barboza Marques Lima da Silva - 🔢Programação e Estrutura de Código/🎭Design Narrativo e Roteiro/🧠 Testes e Feedback de Jogabilidade;
   <br>
-  Davy Queiroz da Silva
   <br>
-  Hudson Nascimento Pereira vieira;
+  Davy Queiroz da Silva - 🎨 Design Visual (ASCII e Layout)/🧠 Testes e Feedback de Jogabilidade;
   <br>
-  Matheus Lima Rocha;
   <br>
-  Rafael dos Santos Paulo;
-  Rodrigo Gomes da Conceição.
+  Hudson Nascimento Pereira vieira - 📜 Documentação (README)/🧪 Testes e Qualidade (QA)/🔗 Controle de Versões (Git)/🧠 Testes e Feedback de Jogabilidade;
+  <br>
+  Matheus Lima Rocha - 🎨 Design Visual (ASCII e Layout)/🧠 Testes e Feedback de Jogabilidade;
+  <br>
+  <br>
+  Rafael dos Santos Paulo -  🚀Aprimoramento de Funcionalidades e Otimização/🧠 Testes e Feedback de Jogabilidade;
+  <br>
+  <br>
+  Rodrigo Gomes da Conceição - 🔧 Desenvolvimento de Sistema (Inventário e Fluxo)/🧠 Testes e Feedback de Jogabilidade.
+  <br>
+  <br>
+  <p>Embora cada membro tenha tido responsabilidades específicas dentro do projeto, todos participaram ativamente da programação, colaborando na construção da lógica, desenvolvimento dos diálogos, estrutura dos eventos e funcionamento do jogo. A criação foi feita de forma totalmente colaborativa.</p>
 </div>
 <br>
 <h2>Professor Orientador:</h2>
 <br>
-<p>João Batista Coelho Júnior</p>
+<p>João Batista Coelho Júnior.</p>
 
-
-<div align="center">
-<img src="https://github.com/Hudson-Nasciment0/Nostradamus/blob/main/img/img-corte.png?raw=true">
-</div>
 <br>
 <br>
 
@@ -170,3 +172,13 @@ Se precisar de mais descrições, continue enviando imagens! Estou acompanhando 
 <br>
 <br>
 <img src="https://github.com/Hudson-Nasciment0/Nostradamus/blob/main/img/Screenshot%20-%20Funcionamento%20-%2010.jpg?raw=true">
+<br>
+<br>
+<h1>Achou que tudo havia acabado? Pense novamente!</h1>
+<br>
+<p>Em Nostradamus, cada decisão importa. O destino dos personagens está inteiramente nas mãos do jogador, e um único passo pode mudar tudo! Este é apenas um dos seis finais interativos possíveis. O desfecho da história depende das escolhas feitas ao longo da jornada.
+</p>
+<br>
+<p>Finais:</p>
+<br>
+<img src="https://github.com/Hudson-Nasciment0/Nostradamus/blob/main/img/Galeria%20de%206%20Imagens.png?raw=true">
