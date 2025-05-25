@@ -93,12 +93,13 @@ o random (para eventos aleatórios)
   Matheus Lima Rocha;
   <br>
   Rafael dos Santos Paulo;
+  <br>
   Rodrigo Gomes da Conceição.
 </div>
 <br>
 <h2>Professor Orientador:</h2>
 <br>
-<p>João Batista Coelho Júnior</p>
+<p>João Batista Coelho Júnior.</p>
 
 
 <div align="center">
