@@ -15,15 +15,15 @@ consequências. Suas escolhas moldam o futuro, então pense bem.
 • Nenhuma biblioteca externa. Só precisa do Python instalado.
 <br>
 <h4>Como rodar:</h4>
-1. Baixe o arquivo Nostradamus.py. 
+1. Baixe o arquivo Nostradamus.py;
 <br>
-2. Abra o terminal (ou prompt de comando). 
+2. Abra o terminal (ou prompt de comando); 
 <br>
-3. Navegue até a pasta onde o arquivo está salvo. 
+3. Navegue até a pasta onde o arquivo está salvo;
 <br>
-4. Digite: python Nostradamus.py 
+4. Digite: python Nostradamus.py;
 <br>
-5. Aperte Enter e o jogo vai começar. 
+5. Aperte Enter e o jogo vai começar.
 
 <h1>Como jogar</h1>
 <br>
