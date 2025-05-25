@@ -107,10 +107,6 @@ o random (para eventos aleatórios)
 <br>
 <p>João Batista Coelho Júnior.</p>
 
-
-<div align="center">
-<img src="https://github.com/Hudson-Nasciment0/Nostradamus/blob/main/img/img-corte.png?raw=true">
-</div>
 <br>
 <br>
 
