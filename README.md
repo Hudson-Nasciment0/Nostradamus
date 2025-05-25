@@ -98,6 +98,9 @@ o random (para eventos aleatórios)
   <br>
   <br>
   Rodrigo Gomes da Conceição - 🔧 Desenvolvimento de Sistema (Inventário e Fluxo)/🧠 Testes e Feedback de Jogabilidade/
+  <br>
+  <br>
+  <p>Embora cada membro tenha tido responsabilidades específicas dentro do projeto, todos participaram ativamente da programação, colaborando na construção da lógica, desenvolvimento dos diálogos, estrutura dos eventos e funcionamento do jogo. A criação foi feita de forma totalmente colaborativa.</p>
 </div>
 <br>
 <h2>Professor Orientador:</h2>
