@@ -170,3 +170,13 @@ Se precisar de mais descrições, continue enviando imagens! Estou acompanhando 
 <br>
 <br>
 <img src="https://github.com/Hudson-Nasciment0/Nostradamus/blob/main/img/Screenshot%20-%20Funcionamento%20-%2010.jpg?raw=true">
+<br>
+<br>
+<h1>Achou que tudo havia acabado? Pense novamente!</h1>
+<br>
+<p>Em Nostradamus, cada decisão importa. O destino dos personagens está inteiramente nas mãos do jogador, e um único passo pode mudar tudo! Este é apenas um dos seis finais interativos possíveis. O desfecho da história depende das escolhas feitas ao longo da jornada.
+</p>
+<br>
+<p>Finais:</p>
+<br>
+<img src="https://github.com/Hudson-Nasciment0/Nostradamus/blob/main/img/Galeria%20de%206%20Imagens.png?raw=true">
