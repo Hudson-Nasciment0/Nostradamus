@@ -6,7 +6,6 @@ médio que, junto de seus amigos, embarca numa aventura cheia de mistérios, dec
 consequências. Suas escolhas moldam o futuro, então pense bem. 
 <br>
 <h1>Instalação</h1>
-<br>
 <h2>Requisitos:</h2>
 <br>
 • Python 3.10 ou superior instalado na sua máquina.
