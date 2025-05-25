@@ -86,7 +86,7 @@ o random (para eventos aleatórios)
   <br>
   Carolina Diniz Araújo;
   <br>
-  Davy Queiroz da Silva
+  Davy Queiroz da Silva;
   <br>
   Hudson Nascimento Pereira vieira;
   <br>
