@@ -86,18 +86,18 @@ o random (para eventos aleatórios)
   Beatriz Barboza Marques Lima da Silva - 🔢Programação e Estrutura de Código/🎭Design Narrativo e Roteiro/🧠 Testes e Feedback de Jogabilidade;
   <br>
   <br>
-  Davy Queiroz da Silva - 🎨 Design Visual (ASCII e Layout)/🧠 Testes e Feedback de Jogabilidade
+  Davy Queiroz da Silva - 🎨 Design Visual (ASCII e Layout)/🧠 Testes e Feedback de Jogabilidade;
   <br>
   <br>
-  Hudson Nascimento Pereira vieira - 📜 Documentação (README)/🧪 Testes e Qualidade (QA)/🔗 Controle de Versões (Git)/🧠 Testes e Feedback de Jogabilidade
+  Hudson Nascimento Pereira vieira - 📜 Documentação (README)/🧪 Testes e Qualidade (QA)/🔗 Controle de Versões (Git)/🧠 Testes e Feedback de Jogabilidade;
   <br>
-  Matheus Lima Rocha - 🎨 Design Visual (ASCII e Layout)/🧠 Testes e Feedback de Jogabilidade
-  <br>
-  <br>
-  Rafael dos Santos Paulo -  🚀Aprimoramento de Funcionalidades e Otimização/🧠 Testes e Feedback de Jogabilidade
+  Matheus Lima Rocha - 🎨 Design Visual (ASCII e Layout)/🧠 Testes e Feedback de Jogabilidade;
   <br>
   <br>
-  Rodrigo Gomes da Conceição - 🔧 Desenvolvimento de Sistema (Inventário e Fluxo)/🧠 Testes e Feedback de Jogabilidade/
+  Rafael dos Santos Paulo -  🚀Aprimoramento de Funcionalidades e Otimização/🧠 Testes e Feedback de Jogabilidade;
+  <br>
+  <br>
+  Rodrigo Gomes da Conceição - 🔧 Desenvolvimento de Sistema (Inventário e Fluxo)/🧠 Testes e Feedback de Jogabilidade.
   <br>
   <br>
   <p>Embora cada membro tenha tido responsabilidades específicas dentro do projeto, todos participaram ativamente da programação, colaborando na construção da lógica, desenvolvimento dos diálogos, estrutura dos eventos e funcionamento do jogo. A criação foi feita de forma totalmente colaborativa.</p>
