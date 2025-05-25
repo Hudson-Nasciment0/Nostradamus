@@ -1,4 +1,4 @@
-<img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-a0dc-61f7-b427-5abadb8823f7/raw?se=2025-05-24T02%3A36%3A14Z&sp=r&sv=2024-08-04&sr=b&scid=c7e3bb95-7eaa-5dd6-b0b1-d66a09b44bd8&skoid=04233560-0ad7-493e-8bf0-1347c317d021&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-23T18%3A39%3A41Z&ske=2025-05-24T18%3A39%3A41Z&sks=b&skv=2024-08-04&sig=Kc90C4GHd//H1dloFssMBMpy9Lq8tPCD8Q/1Nnv90fY%3D">
+<img src="https://github.com/Hudson-Nasciment0/Nostradamus/blob/main/img/Logo%20-%20Nostradamus.jpg?raw=true">
 <h1>Descrição</h1>
 <br>
 Nostradamus é um jogo de RPG de texto onde você controla um estudante do ensino 
