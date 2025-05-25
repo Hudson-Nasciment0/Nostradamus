@@ -76,15 +76,33 @@ o time (para pausas e efeitos de tempo)
 o os (para limpar a tela e melhorar a imersão) 
 <br>
 o random (para eventos aleatórios) 
-
-
-
-
-
-
 <br>
 <br>
-<img src="https://github.com/Hudson-Nasciment0/Easy-Shopping-Via-Mobile/blob/main/assets/Macbook.png?raw=true">
+<h1>Equipe formada por:</h1/>
 <br>
+<div>
+  Ana Beatriz Abrantes da Silva;
+  <br>
+  Beatriz Barboza Marques Lima da Silva;
+  <br>
+  Carolina Diniz Araújo;
+  <br>
+  Davy Queiroz da Silva
+  <br>
+  Hudson Nascimento Pereira vieira;
+  <br>
+  Matheus Lima Rocha;
+  <br>
+  Rafael dos Santos Paulo;
+  Rodrigo Gomes da Conceição.
+</div>
 <br>
-<img src="https://github.com/Hudson-Nasciment0/Easy-Shopping-Via-Mobile/blob/main/assets/Desktop.png?raw=true">
+<h2>Professor Orientador:</h2>
+<br>
+<p>João Batista Coelho Júnior</p>
+
+
+<div align="center">
+<img src="https://github.com/Hudson-Nasciment0/Nostradamus/blob/main/img/img-corte.png?raw=true">
+</div>
+
