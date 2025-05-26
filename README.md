@@ -101,6 +101,7 @@ o random (para eventos aleatórios)
   Rodrigo Gomes da Conceição - 🔧 Desenvolvimento de Sistema (Inventário e Fluxo)/🧠 Testes e Feedback de Jogabilidade.
   <br>
   <br>
+  Renata Mendes - 🎨 Design Visual (ASCII e Layout)/🧠 Testes e Feedback de Jogabilidade;
   <p>Embora cada membro tenha tido responsabilidades específicas dentro do projeto, todos participaram ativamente da programação, colaborando na construção da lógica, desenvolvimento dos diálogos, estrutura dos eventos e funcionamento do jogo. A criação foi feita de forma totalmente colaborativa.</p>
 </div>
 <br>
