@@ -68,7 +68,7 @@ específicas mostradas.
 • Limpeza de tela para uma experiência mais imersiva, compatível com Windows, 
 Linux e Mac.
 <br>
-<h2>Bibliotecas padrão usadas:</h2>
+<h2>Bibliotecas padrão utilizada:</h2>
 <br>
 o time (para pausas e efeitos de tempo) 
 <br>
@@ -90,6 +90,7 @@ o random (para eventos aleatórios)
   <br>
   <br>
   Hudson Nascimento Pereira vieira - 📜 Documentação (README)/🧪 Testes e Qualidade (QA)/🔗 Controle de Versões (Git)/🧠 Testes e Feedback de Jogabilidade;
+  <br>
   <br>
   Matheus Lima Rocha - 🎨 Design Visual (ASCII e Layout)/🧠 Testes e Feedback de Jogabilidade;
   <br>
