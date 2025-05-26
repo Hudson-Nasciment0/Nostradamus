@@ -156,7 +156,6 @@ o random (para eventos aleatórios)
 <br>
 <br>
 <p>os personagens enfrentam um dilema crítico: após pegar uma faca para proteção, percebem que Jenna desapareceu. O jogo apresenta um momento de escolha importante, onde o jogador deve decidir entre procurar Jenna ou fugir, influenciando diretamente o desenrolar da história.
-Se precisar de mais descrições, continue enviando imagens! Estou acompanhando a sequência da história para manter a lógica da narrativa.
 </p>
 <br>
 <br>
