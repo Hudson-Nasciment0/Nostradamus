@@ -102,6 +102,8 @@ o random (para eventos aleatórios)
   <br>
   <br>
   Renata Mendes - 🎨 Design Visual (ASCII e Layout)/🧠 Testes e Feedback de Jogabilidade;
+  <br>
+  <br>
   <p>Embora cada membro tenha tido responsabilidades específicas dentro do projeto, todos participaram ativamente da programação, colaborando na construção da lógica, desenvolvimento dos diálogos, estrutura dos eventos e funcionamento do jogo. A criação foi feita de forma totalmente colaborativa.</p>
 </div>
 <br>
